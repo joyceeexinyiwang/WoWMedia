@@ -1,2 +1,8 @@
-# WoWMedia
-Video and media design process for The Way Out West, Fall 2018 CMU School of Drama production (under media designer Lucy Scherrer)
+# *The Way Out West* (Video & Media Design process)
+### Fall 2018 production
+#### Carnegie Mellon School of Drama
+###### media designer: Lucy Scherrer
+###### assistant media designers: Cassidy Pearsall and Joyce Wang
+
+
+ahhh
