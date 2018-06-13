@@ -10,7 +10,7 @@
 ### MoCap options
 - Kinect? IoT devices?
 - connect with...TouchDesigner? Processing? OpenFrameworks? Unity?
-Current options:
 
-Camera with OpenPose detecting where there is a skeleton
-Kinect detect depth information
+Current options:
+- Camera with OpenPose detecting where there is a skeleton
+- Kinect detect depth information
